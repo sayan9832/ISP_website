@@ -1,14 +1,14 @@
 const plans = {
     home: [
-        {name:"Basic", sub:"Perfect for browsing & social media", speed:"50 Mbps", price:"499", features:["Unlimited Data","Wi-Fi Router","24/7 Customer Support"]},
-        {name:"Standard", sub:"Ideal for streaming & work from home", speed:"100 Mbps", price:"699", features:["Unlimited Data","Dual-band Wi-Fi Router","24/7 Customer Support"], featured:true},
-        {name:"Premium", sub:"For gamers & heavy users", speed:"200 Mbps", price:"899", features:["Unlimited Data","High-performance Router","Priority Support"]},
-        {name:"Ultra", sub:"For businesses & large families", speed:"500 Mbps", price:"1,499", features:["Unlimited Data","Premium Router","Priority Support"]}
+        {name:"Basic", sub:"Perfect for browsing & social media", speed:"30 Mbps", price:"399", features:["Unlimited Data","Wi-Fi Router","24/7 Customer Support"]},
+        {name:"Standard", sub:"Ideal for streaming & work from home", speed:"50 Mbps", price:"479", features:["Unlimited Data","Dual-band Wi-Fi Router","24/7 Customer Support"], featured:true},
+        {name:"Premium", sub:"For gamers & heavy users", speed:"100 Mbps", price:"699", features:["Unlimited Data","High-performance Router","Priority Support"]},
+        {name:"Ultra", sub:"For businesses & large families", speed:"150 Mbps", price:"899", features:["Unlimited Data","Premium Router","Priority Support"]}
     ],
     business: [
-        {name:"Business Start", sub:"For small teams & shops", speed:"100 Mbps", price:"1,099", features:["Unlimited Data","Business Router","Priority Support"]},
-        {name:"Business Pro", sub:"For growing businesses", speed:"200 Mbps", price:"1,599", features:["Unlimited Data","Static IP option","Priority Support"], featured:true},
-        {name:"Business Max", sub:"For high-demand offices", speed:"500 Mbps", price:"2,499", features:["Unlimited Data","Static IP option","Dedicated Support"]},
+        {name:"Business Start", sub:"For small teams & shops", speed:"30 Mbps", price:"399", features:["Unlimited Data","Business Router","Priority Support"]},
+        {name:"Business Pro", sub:"For growing businesses", speed:"50 Mbps", price:"499", features:["Unlimited Data","Static IP option","Priority Support"], featured:true},
+        {name:"Business Max", sub:"For high-demand offices", speed:"100 Mbps", price:"699", features:["Unlimited Data","Static IP option","Dedicated Support"]},
         {name:"Enterprise", sub:"Custom connectivity", speed:"1 Gbps", price:"Custom", features:["Dedicated Bandwidth","Static IP","Managed Support"]}
     ]
 };
